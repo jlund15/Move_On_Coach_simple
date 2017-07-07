@@ -21,6 +21,5 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
-# Move_On_Coach_simple
-# Move_On_Coach_simple
+* When creating a form for the schedule check out 
+https://rails.devcamp.com/dissecting-rails-5/data-flow-rails/build-new-create-functionality-scratch-rails
